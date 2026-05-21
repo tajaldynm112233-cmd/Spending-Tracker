@@ -1,0 +1,6 @@
+{
+  "name": "Spending Tracker",
+  "description": "An all-in-one personal finance planner with custom budget limits, savings milestones, and an interactive Gemini AI financial advisor for personalized advice and smart spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
